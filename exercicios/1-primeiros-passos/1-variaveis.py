@@ -5,7 +5,29 @@
 
 # Declare variáveis do tipo string
 
+nome = ' rodrigo '
+
+
+profissão = " vendedora "
+
+
+object = '''
+Aprender python
+para mudar de 
+profissão
+'''
+
+
 # Declare variáveis de cada tipo numérico
+
+idade = 56 
+
+salario = 1222.20
+
 
 
 # Declare uma variável do tipo booleano
+
+verdadeiro = True
+
+falso = False
